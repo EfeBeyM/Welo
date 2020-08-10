@@ -1,14 +1,14 @@
 #!/bin/bash
 
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code:'welø quiere morir &
+#Hell.
+#İnstagram : @efewq_
+#Youtube : Yakında ...
 clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #Hell.  #'welø quiere morir & )))
 
 
 
